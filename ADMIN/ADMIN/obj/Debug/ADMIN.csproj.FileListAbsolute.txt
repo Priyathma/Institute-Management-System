@@ -1,0 +1,35 @@
+C:\Users\priya\source\repos\ADMIN\ADMIN\bin\Debug\ADMIN.exe.config
+C:\Users\priya\source\repos\ADMIN\ADMIN\bin\Debug\ADMIN.exe
+C:\Users\priya\source\repos\ADMIN\ADMIN\bin\Debug\ADMIN.pdb
+C:\Users\priya\source\repos\ADMIN\ADMIN\obj\Debug\ADMIN.csproj.AssemblyReference.cache
+C:\Users\priya\source\repos\ADMIN\ADMIN\obj\Debug\ADMIN.Form1.resources
+C:\Users\priya\source\repos\ADMIN\ADMIN\obj\Debug\ADMIN.Properties.Resources.resources
+C:\Users\priya\source\repos\ADMIN\ADMIN\obj\Debug\ADMIN.csproj.GenerateResource.cache
+C:\Users\priya\source\repos\ADMIN\ADMIN\obj\Debug\ADMIN.csproj.CoreCompileInputs.cache
+C:\Users\priya\source\repos\ADMIN\ADMIN\obj\Debug\ADMIN.exe
+C:\Users\priya\source\repos\ADMIN\ADMIN\obj\Debug\ADMIN.pdb
+C:\Users\priya\source\repos\ADMIN\ADMIN\bin\Debug\Guna.UI.dll
+C:\Users\priya\source\repos\ADMIN\ADMIN\obj\Debug\ADMIN.csproj.CopyComplete
+C:\Users\priya\source\repos\ADMIN\ADMIN\obj\Debug\ADMIN.ALERTS.resources
+C:\Users\priya\source\repos\ADMIN\ADMIN\obj\Debug\ADMIN.MORE.resources
+C:\Users\priya\source\repos\ADMIN\ADMIN\obj\Debug\ADMIN.STUDENT.resources
+C:\Users\priya\source\repos\ADMIN\ADMIN\obj\Debug\ADMIN.TIMETABLE.resources
+C:\Users\priya\source\repos\ADMIN\ADMIN\obj\Debug\ADMIN.TEACHER.resources
+C:\Users\priya\source\repos\ADMIN\ADMIN\obj\Debug\ADMIN.PROFIT.resources
+C:\Users\priya\OneDrive\Desktop\computing group project\ADMIN\ADMIN\bin\Debug\ADMIN.exe.config
+C:\Users\priya\OneDrive\Desktop\computing group project\ADMIN\ADMIN\bin\Debug\ADMIN.exe
+C:\Users\priya\OneDrive\Desktop\computing group project\ADMIN\ADMIN\bin\Debug\ADMIN.pdb
+C:\Users\priya\OneDrive\Desktop\computing group project\ADMIN\ADMIN\obj\Debug\ADMIN.csproj.AssemblyReference.cache
+C:\Users\priya\OneDrive\Desktop\computing group project\ADMIN\ADMIN\obj\Debug\ADMIN.Form1.resources
+C:\Users\priya\OneDrive\Desktop\computing group project\ADMIN\ADMIN\obj\Debug\ADMIN.ALERTS.resources
+C:\Users\priya\OneDrive\Desktop\computing group project\ADMIN\ADMIN\obj\Debug\ADMIN.MORE.resources
+C:\Users\priya\OneDrive\Desktop\computing group project\ADMIN\ADMIN\obj\Debug\ADMIN.STUDENT.resources
+C:\Users\priya\OneDrive\Desktop\computing group project\ADMIN\ADMIN\obj\Debug\ADMIN.TIMETABLE.resources
+C:\Users\priya\OneDrive\Desktop\computing group project\ADMIN\ADMIN\obj\Debug\ADMIN.TEACHER.resources
+C:\Users\priya\OneDrive\Desktop\computing group project\ADMIN\ADMIN\obj\Debug\ADMIN.PROFIT.resources
+C:\Users\priya\OneDrive\Desktop\computing group project\ADMIN\ADMIN\obj\Debug\ADMIN.Properties.Resources.resources
+C:\Users\priya\OneDrive\Desktop\computing group project\ADMIN\ADMIN\obj\Debug\ADMIN.csproj.GenerateResource.cache
+C:\Users\priya\OneDrive\Desktop\computing group project\ADMIN\ADMIN\obj\Debug\ADMIN.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Desktop\computing group project\ADMIN\ADMIN\obj\Debug\ADMIN.csproj.CopyComplete
+C:\Users\priya\OneDrive\Desktop\computing group project\ADMIN\ADMIN\obj\Debug\ADMIN.exe
+C:\Users\priya\OneDrive\Desktop\computing group project\ADMIN\ADMIN\obj\Debug\ADMIN.pdb

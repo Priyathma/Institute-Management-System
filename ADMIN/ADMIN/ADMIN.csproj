@@ -52,11 +52,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
     </Compile>
     <Compile Include="ALERTS.cs">
       <SubType>Form</SubType>
@@ -64,17 +64,89 @@
     <Compile Include="ALERTS.Designer.cs">
       <DependentUpon>ALERTS.cs</DependentUpon>
     </Compile>
+    <Compile Include="Attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendance.Designer.cs">
+      <DependentUpon>Attendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClassesAndFees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClassesAndFees.Designer.cs">
+      <DependentUpon>ClassesAndFees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classfees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classfees.Designer.cs">
+      <DependentUpon>Classfees.cs</DependentUpon>
+    </Compile>
     <Compile Include="MORE.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MORE.Designer.cs">
       <DependentUpon>MORE.cs</DependentUpon>
     </Compile>
+    <Compile Include="ParentDeatails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParentDeatails.Designer.cs">
+      <DependentUpon>ParentDeatails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StRegistration.Designer.cs">
+      <DependentUpon>StRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stclasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stclasses.Designer.cs">
+      <DependentUpon>Stclasses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stdetails.Designer.cs">
+      <DependentUpon>Stdetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StTimeTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StTimeTable.Designer.cs">
+      <DependentUpon>StTimeTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="STUDENT.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="STUDENT.Designer.cs">
       <DependentUpon>STUDENT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeDeatails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeDeatails.Designer.cs">
+      <DependentUpon>TeDeatails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeProfits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeProfits.Designer.cs">
+      <DependentUpon>TeProfits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeRegistration.Designer.cs">
+      <DependentUpon>TeRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeTimeTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeTimeTable.Designer.cs">
+      <DependentUpon>TeTimeTable.cs</DependentUpon>
     </Compile>
     <Compile Include="TIMETABLE.cs">
       <SubType>Form</SubType>
@@ -96,17 +168,53 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ALERTS.resx">
       <DependentUpon>ALERTS.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Attendance.resx">
+      <DependentUpon>Attendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClassesAndFees.resx">
+      <DependentUpon>ClassesAndFees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classfees.resx">
+      <DependentUpon>Classfees.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MORE.resx">
       <DependentUpon>MORE.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ParentDeatails.resx">
+      <DependentUpon>ParentDeatails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StRegistration.resx">
+      <DependentUpon>StRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stclasses.resx">
+      <DependentUpon>Stclasses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stdetails.resx">
+      <DependentUpon>Stdetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StTimeTable.resx">
+      <DependentUpon>StTimeTable.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="STUDENT.resx">
       <DependentUpon>STUDENT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeDeatails.resx">
+      <DependentUpon>TeDeatails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeProfits.resx">
+      <DependentUpon>TeProfits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeRegistration.resx">
+      <DependentUpon>TeRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeTimeTable.resx">
+      <DependentUpon>TeTimeTable.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TIMETABLE.resx">
       <DependentUpon>TIMETABLE.cs</DependentUpon>

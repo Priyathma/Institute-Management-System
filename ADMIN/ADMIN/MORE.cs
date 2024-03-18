@@ -16,5 +16,48 @@ namespace ADMIN
         {
             InitializeComponent();
         }
+        public void loadform(object Form)
+        {
+           
+        }
+        private void MORE_Load(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void gunaAdvenceButton7_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void gunaAdvenceButton6_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

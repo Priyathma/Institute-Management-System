@@ -36,7 +36,7 @@
             // 
             this.flowLayoutPanel1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.flowLayoutPanel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(10, 89);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(23, 75);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
             this.flowLayoutPanel1.Size = new System.Drawing.Size(1296, 667);
             this.flowLayoutPanel1.TabIndex = 28;
@@ -60,7 +60,7 @@
             this.gunaAdvenceButton6.Image = null;
             this.gunaAdvenceButton6.ImageSize = new System.Drawing.Size(20, 20);
             this.gunaAdvenceButton6.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
-            this.gunaAdvenceButton6.Location = new System.Drawing.Point(10, 30);
+            this.gunaAdvenceButton6.Location = new System.Drawing.Point(23, 16);
             this.gunaAdvenceButton6.Name = "gunaAdvenceButton6";
             this.gunaAdvenceButton6.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
             this.gunaAdvenceButton6.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -77,7 +77,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1317, 786);
+            this.ClientSize = new System.Drawing.Size(1342, 759);
             this.Controls.Add(this.flowLayoutPanel1);
             this.Controls.Add(this.gunaAdvenceButton6);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;

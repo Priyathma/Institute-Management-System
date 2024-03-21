@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox9 = new System.Windows.Forms.TextBox();
+            this.textBox8 = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
@@ -49,13 +49,13 @@
             this.button2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // textBox9
+            // textBox8
             // 
-            this.textBox9.Location = new System.Drawing.Point(186, 431);
-            this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(419, 20);
-            this.textBox9.TabIndex = 33;
-            this.textBox9.TextChanged += new System.EventHandler(this.textBox9_TextChanged);
+            this.textBox8.Location = new System.Drawing.Point(186, 431);
+            this.textBox8.Name = "textBox8";
+            this.textBox8.Size = new System.Drawing.Size(419, 20);
+            this.textBox8.TabIndex = 33;
+            this.textBox8.TextChanged += new System.EventHandler(this.textBox9_TextChanged);
             // 
             // label10
             // 
@@ -71,7 +71,7 @@
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(186, 387);
+            this.textBox4.Location = new System.Drawing.Point(186, 269);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(419, 20);
             this.textBox4.TabIndex = 31;
@@ -91,7 +91,7 @@
             // 
             // textBox5
             // 
-            this.textBox5.Location = new System.Drawing.Point(186, 344);
+            this.textBox5.Location = new System.Drawing.Point(186, 310);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(419, 20);
             this.textBox5.TabIndex = 29;
@@ -111,7 +111,7 @@
             // 
             // textBox6
             // 
-            this.textBox6.Location = new System.Drawing.Point(186, 303);
+            this.textBox6.Location = new System.Drawing.Point(186, 353);
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(419, 20);
             this.textBox6.TabIndex = 27;
@@ -131,7 +131,7 @@
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(186, 260);
+            this.textBox3.Location = new System.Drawing.Point(186, 226);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(419, 20);
             this.textBox3.TabIndex = 25;
@@ -151,7 +151,7 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(186, 217);
+            this.textBox2.Location = new System.Drawing.Point(186, 183);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(419, 20);
             this.textBox2.TabIndex = 23;
@@ -171,7 +171,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(186, 177);
+            this.textBox1.Location = new System.Drawing.Point(186, 143);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(419, 20);
             this.textBox1.TabIndex = 21;
@@ -202,7 +202,7 @@
             // 
             // textBox7
             // 
-            this.textBox7.Location = new System.Drawing.Point(186, 139);
+            this.textBox7.Location = new System.Drawing.Point(186, 391);
             this.textBox7.Name = "textBox7";
             this.textBox7.Size = new System.Drawing.Size(419, 20);
             this.textBox7.TabIndex = 53;
@@ -247,7 +247,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox7);
             this.Controls.Add(this.label8);
-            this.Controls.Add(this.textBox9);
+            this.Controls.Add(this.textBox8);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.textBox4);
             this.Controls.Add(this.label5);
@@ -272,7 +272,7 @@
         }
 
         #endregion
-        private System.Windows.Forms.TextBox textBox9;
+        private System.Windows.Forms.TextBox textBox8;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.Label label5;

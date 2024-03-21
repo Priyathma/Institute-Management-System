@@ -10,3 +10,15 @@ C:\Users\priya\OneDrive\Desktop\c# project\login\login\obj\Debug\login.exe
 C:\Users\priya\OneDrive\Desktop\c# project\login\login\obj\Debug\login.pdb
 C:\Users\priya\OneDrive\Desktop\c# project\login\login\obj\Debug\login.Form2.resources
 C:\Users\priya\OneDrive\Desktop\c# project\login\login\obj\Debug\login.Form3.resources
+C:\Users\priya\OneDrive\Documents\GitHub\Institute-Management-System\login\login\bin\Debug\login.exe.config
+C:\Users\priya\OneDrive\Documents\GitHub\Institute-Management-System\login\login\bin\Debug\login.exe
+C:\Users\priya\OneDrive\Documents\GitHub\Institute-Management-System\login\login\bin\Debug\login.pdb
+C:\Users\priya\OneDrive\Documents\GitHub\Institute-Management-System\login\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\priya\OneDrive\Documents\GitHub\Institute-Management-System\login\login\obj\Debug\login.login.resources
+C:\Users\priya\OneDrive\Documents\GitHub\Institute-Management-System\login\login\obj\Debug\login.Form2.resources
+C:\Users\priya\OneDrive\Documents\GitHub\Institute-Management-System\login\login\obj\Debug\login.Form3.resources
+C:\Users\priya\OneDrive\Documents\GitHub\Institute-Management-System\login\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\priya\OneDrive\Documents\GitHub\Institute-Management-System\login\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\priya\OneDrive\Documents\GitHub\Institute-Management-System\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Documents\GitHub\Institute-Management-System\login\login\obj\Debug\login.exe
+C:\Users\priya\OneDrive\Documents\GitHub\Institute-Management-System\login\login\obj\Debug\login.pdb

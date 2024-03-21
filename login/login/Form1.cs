@@ -47,5 +47,10 @@ namespace login
             f2.Show();
             Visible = false;
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
